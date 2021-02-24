@@ -1,0 +1,36 @@
+h1,
+h2 {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.container {
+  margin-top: 0.5em;
+}
+
+.form-control {
+  margin: 1em;
+}
+
+.pets_name_list:hover {
+  color: rgb(35, 130, 240);
+  text-decoration: underline;
+}
+
+.pets_name_list {
+  text-decoration: none;
+  color: rgb(35, 130, 240);
+}
+
+.navbar-brand {
+  margin-left: 2em;
+  font-weight: bold;
+}
+
+img {
+  margin-bottom: 1em;
+}
+
+.btn {
+  margin-top: 1em;
+}
